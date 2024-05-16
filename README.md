@@ -1,6 +1,6 @@
 # aws-security-policies
 
-# In the world of cloud computing, I’ve been rolling up my sleeves as an IAM engineer, diving deep into ways to tighten up security and streamline how we manage resources in AWS. My goal? To make everything more secure and run smoother.
+In the world of cloud computing, I’ve been rolling up my sleeves as an IAM engineer, diving deep into ways to tighten up security and streamline how we manage resources in AWS. My goal? To make everything more secure and run smoother.
 
 Firstly, I realized we needed a better way to control who could send messages to our SNS topics. It was all about keeping our data exchanges clean and secure, so I set up a policy that ensures only the right people and services can publish messages. This was a big step in keeping our communications tight.
 
