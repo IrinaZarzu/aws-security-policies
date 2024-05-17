@@ -14,4 +14,4 @@ All in all, putting these policies together taught me a ton about the ins and ou
 
 Reflecting on all this work, I feel pretty good about the safer, more cost-effective environment we’ve crafted. Plus, I’ve shared all this in a GitHub repo, hoping it might help others facing similar challenges. It’s all about making the cloud a better place for everyone!
 
-My source of inspiration is an AWS workshop : https://catalog.us-east-1.prod.workshops.aws/workshops/d1531d0a-79fd-45af-b198-d81e349ee660/en-US/20-install-the-assessment-tool
+My source of inspiration is an [AWS workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d1531d0a-79fd-45af-b198-d81e349ee660/en-US/20-install-the-assessment-tool)
